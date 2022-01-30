@@ -1,6 +1,7 @@
 # LeDiTor
-Application for Plant Disease Detection 
+## Application for Plant Disease Detection 
 
-Android Application and dataset will soon be uploaded.
+#### For Android Application and dataset contact at fb/insta/twitter/linkedin by searching as sumittiwari022
 
-Till then keep coading and learning...
+### thanks...
+# Keep coading and learning...
